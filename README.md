@@ -1,3 +1,4 @@
 # SMKenBurnsEffect
 
-use 'source "https://github.com/SMCorpporation/SMPodSpecs.git"' as source
+source "https://github.com/SMCorpporation/SMPodSpecs.git"
+pod "SMKenBurnsEffect"
